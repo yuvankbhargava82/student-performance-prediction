@@ -215,7 +215,7 @@ If you found this project helpful or interesting:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Yuvank Bhargava**
 🔗 GitHub: https://github.com/yuvankbhargava82
 
 ---
