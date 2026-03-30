@@ -187,14 +187,6 @@ You can:
 * Make improvements
 * Submit a pull request
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
----
-
 ## 🙌 Acknowledgements
 
 Big thanks to:
